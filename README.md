@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi Portafolio</title>
+    <title>Portafolio - Jordi Abal</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@
         header {
             background: #24292e;
             color: white;
-            padding: 40px 20px;
+            padding: 60px 20px;
         }
         section {
             padding: 40px 20px;
@@ -32,33 +32,35 @@
             color: #0366d6;
             text-decoration: none;
         }
+        footer {
+            background: #24292e;
+            color: white;
+            padding: 20px;
+            margin-top: 40px;
+        }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Tu Nombre</h1>
-    <p>Desarrollador Web | Frontend | Backend</p>
+    <h1>Jordi Abal</h1>
+    <p>Estudiante</p>
 </header>
 
 <section>
     <h2>Sobre mí</h2>
-    <p>Soy desarrollador apasionado por crear aplicaciones web modernas y funcionales.</p>
+    <p>
+        Soy estudiante con interés en el desarrollo web y la tecnología.
+        Me gusta aprender nuevas habilidades y mejorar constantemente en el mundo de la programación.
+    </p>
 </section>
 
 <section>
     <h2>Proyectos</h2>
 
     <div class="proyecto">
-        <h3>Proyecto 1</h3>
-        <p>Descripción breve del proyecto.</p>
-        <a href="#">Ver proyecto</a>
-    </div>
-
-    <div class="proyecto">
-        <h3>Proyecto 2</h3>
-        <p>Descripción breve del proyecto.</p>
-        <a href="#">Ver proyecto</a>
+        <h3>Proyecto próximamente</h3>
+        <p>Actualmente estoy trabajando en nuevos proyectos que pronto estarán disponibles aquí.</p>
     </div>
 
 </section>
@@ -67,6 +69,10 @@
     <h2>Contacto</h2>
     <p>Email: tuemail@email.com</p>
 </section>
+
+<footer>
+    <p>© 2026 Jordi Abal</p>
+</footer>
 
 </body>
 </html>
